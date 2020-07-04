@@ -1,0 +1,45 @@
+baseURL = "https://cslester.com"
+title = "C. Seth Lester, ASA"
+languageCode = "en-us"
+theme = "devise"
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = ""
+enableRobotsTXT = true
+copyright = "&copy; Copyright 2020, C. S. Lester"
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    title = "Resume"
+    url = "/resume.pdf"
+    weight = -110
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    title = "Projects"
+    url = "/projects/"
+    weight = -100
+
+# Configuration Features
+[params]
+  header_title = "C. Seth Lester, ASA"                 # Your header title
+  header_subtitle = "Actuarial generalist with experience in public speaking, coding instruction, R/Shiny app development, project management and actuarial model CI/CD through Agile/Scrum frameworks." 
+  # Your header subtitle
+  home_image = "/images/seth.jpg"          # Path to header image starting from the static directory
+  recent_posts = 3                           # Max amount of recent posts to show
+  mainSections = ["posts", "post", "blog"]   # Main sections to in lude in recent posts
+  [[params.social]]
+    fa_icon = "fab fa-linkedin-in fa-1x"
+    href = "https://www.linkedin.com/in/csethlester/"
+  [[params.social]]
+    fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
+    href = "http://github.com/bentwheel"      # Link to associate with icon (http://, https://, mailto:)
+  [[params.social]]
+    fa_icon = "fab fa-twitter fa-1x"
+    href = "https://www.twitter.com/sethlester/"
+  [[params.social]]
+    fa_icon = "fas fa-envelope fa-1x"
+    href = "mailto:cslester@gmail.com"
