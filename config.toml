@@ -20,7 +20,7 @@ copyright = "&copy; Copyright 2020, C. S. Lester"
     identifier = "projects"
     name = "Projects"
     title = "Projects"
-    url = "/projects/"
+    url = "/posts/"
     weight = -100
 
 # Configuration Features
@@ -30,7 +30,7 @@ copyright = "&copy; Copyright 2020, C. S. Lester"
   # Your header subtitle
   home_image = "/images/seth.jpg"          # Path to header image starting from the static directory
   recent_posts = 3                           # Max amount of recent posts to show
-  mainSections = ["posts", "post", "blog"]   # Main sections to in lude in recent posts
+  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
   [[params.social]]
     fa_icon = "fab fa-linkedin-in fa-1x"
     href = "https://www.linkedin.com/in/csethlester/"
