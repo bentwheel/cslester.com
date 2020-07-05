@@ -14,7 +14,7 @@ copyright = "&copy; Copyright 2020, C. S. Lester"
     identifier = "resume"
     name = "Resume"
     title = "Resume"
-    url = "/resume.pdf"
+    url = "/resume/resume/"
     weight = -110
   [[menu.main]]
     identifier = "projects"
