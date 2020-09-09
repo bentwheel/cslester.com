@@ -11,17 +11,17 @@ copyright = "&copy; Copyright 2020, C. S. Lester"
 # Main menu items
 [menu]
   [[menu.main]]
-    identifier = "resume"
-    name = "Resume"
-    title = "Resume"
-    url = "/resume/"
-    weight = -110
-  [[menu.main]]
     identifier = "projects"
     name = "Projects"
     title = "Projects"
     url = "/posts/"
     weight = -100
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    title = "Resume"
+    url = "/resume/"
+    weight = -110
 
 # Configuration Features
 [params]

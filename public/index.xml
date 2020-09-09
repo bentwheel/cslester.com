@@ -19,10 +19,9 @@
       
       <guid>https://cslester.com/resume/resume/</guid>
       <description>*This résumé (typeset in LaTeX) is available in Adobe PDF format.
-Profile Actuarial generalist in the commercial pharmacy benefits space with experience in core pricing and reserving functions, data storytelling and visualization, predictive modeling, public speaking, model CI/CD pipelines, and coaching Agile/Scrum teams.
 Work Experience Actuarial Advisor (April 2019 to present)
 Pharmacy Pricing, Cigna Commercial Healthcare, Philadelphia, PA
- Lead actuarial pricing team&amp;rsquo;s feature development and new product pricing methodology for in-house interactive pricing model used by 20+ commercial pharmacy benefits underwriters.</description>
+ Lead actuarial pricing team&amp;rsquo;s feature development and new product pricing methodology for in-house interactive pricing model used by 20+ commercial pharmacy benefits underwriters. Built intake system for case-specific pricing questions and exception approval requests from underwriting, sales, and other market-facing functions. Transitioned team to Agile release train.</description>
     </item>
     
     <item>
@@ -43,6 +42,18 @@ The following code is a demonstration of how to web scrape Google trends for loc
       <guid>https://cslester.com/posts/asop-viz/</guid>
       <description>This content was generated using a R Markdown Notebook. The code / .RMD file used to build this page, as well as additional documentation and resources, are all located on my personal GitHub page. A slightly revised version of this content was posted on LinkedIn.
 What do actuaries do? I volunteered (with some eagerness) to teach the R training sessions to the bright and talented “virtual” actuarial intern cohorts we have at Cigna this year in our Philadelphia office, and I wanted to kick off the presentation with a showcase of the flexibility and power that the R language and RStudio IDE can bring to a project, all while providing my spin on the so-called million-dollar question: “What do actuaries do?</description>
+    </item>
+    
+    <item>
+      <title>Embracing a New Dimension of Model Tuning in Actuarial Model Development</title>
+      <link>https://cslester.com/posts/quantified-fairness/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cslester.com/posts/quantified-fairness/</guid>
+      <description>Late last autumn, I took an opportunity to respond to the Society of Actuaries&amp;rsquo; call for essays about potential disruptions and innovations in the actuarial practice space.
+The bad news: I didn&amp;rsquo;t win one of the top prizes.
+The good news: My essay was published anyways, and you can read it here.
+Most of the essay serves as a rehash and survey of work explained in The Ethical Algorithm: The Science of Socially Aware Algorithm Design, but ends with some discussion about how the evolving generation of new actuarial modeling and predictive analytics has considerations yet to be worked out by the Actuarial Standards Board as they prepare to release the new, long-awaited Modeling ASOP.</description>
     </item>
     
   </channel>
