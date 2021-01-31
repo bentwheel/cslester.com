@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, C. S. Lester</copyright>
-    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://cslester.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cslester.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Rise and Fall of Sourdough</title>
       <link>https://cslester.com/posts/sourdough/</link>
@@ -38,7 +34,7 @@ What do actuaries do? I volunteered (with some eagerness) to teach the R trainin
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cslester.com/posts/quantified-fairness/</guid>
-      <description>Late last autumn, I took an opportunity to respond to the Society of Actuaries&amp;rsquo; call for essays about potential disruptions and innovations in the actuarial practice space.
+      <description>Late last autumn, I took an opportunity to respond to the Society of Actuaries&#39; call for essays about potential disruptions and innovations in the actuarial practice space.
 The bad news: I didn&amp;rsquo;t win one of the top prizes.
 The good news: My essay was published anyways, and you can read it here.
 Most of the essay serves as a rehash and survey of work explained in The Ethical Algorithm: The Science of Socially Aware Algorithm Design, but ends with some discussion about how the evolving generation of new actuarial modeling and predictive analytics has considerations yet to be worked out by the Actuarial Standards Board as they prepare to release the new, long-awaited Modeling ASOP.</description>

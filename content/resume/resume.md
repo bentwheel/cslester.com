@@ -1,6 +1,6 @@
 ---
 title: "Résumé"
-date: 2020-08-17
+date: 2021-01-31
 draft: false
 ---
 
@@ -9,7 +9,15 @@ draft: false
 
 Work Experience
 ---------------
-**Actuarial Advisor** (April 2019 to present)\
+**Senior Industry Consultant** (November 2020 to present)\
+*Risk Research and Quantitative Solutions (RQS), SAS Institute, Cary, NC*
+- Communicate with internal and external sales, IT, accounting, and actuarial partners regarding the universe of SAS software solutions.
+- Support pre-sales activity for SAS enterprise solutions that enable LDTI and IFRS-17 financial reporting standards compliance.
+- Facilitate market research and collateral development for SAS software solutions.
+- Foster development of pragmatic new approaches to actuarial modeling with
+SAS software and tools at the proof-of-concept level.
+
+**Actuarial Advisor** (April 2019 to November 2020)\
 *Pharmacy Pricing, Cigna Commercial Healthcare, Philadelphia, PA*
 - Lead actuarial pricing team's feature development and new product pricing methodology for in-house interactive pricing model used by 20+ commercial pharmacy benefits underwriters.
 - Built intake system for case-specific pricing questions and exception approval requests from underwriting, sales, and other market-facing functions.
